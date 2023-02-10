@@ -1,2 +1,4 @@
 title: My Awesome Website
 theme: minima
+minima:
+  skin: dark
