@@ -1,4 +1,9 @@
 title: My Awesome Website
 theme: minima
+author:
+  name: Gunnar Braun
+  email: gunnar.braun@gmx.de
 minima:
   skin: dark
+  social_links:
+    - { platform: github,  user_url: "https://github.com/gubraun" }
