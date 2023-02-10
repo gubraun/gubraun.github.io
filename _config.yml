@@ -20,7 +20,8 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
-    - { platform: github,  user_url: "https://github.com/gubraun" }
+    - { platform: github,   user_url: "https://github.com/gubraun" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/gubraun" }
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
