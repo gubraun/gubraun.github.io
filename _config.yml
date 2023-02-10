@@ -11,7 +11,9 @@ description: >
   results) and in your feed.xml site description.
 # Build settings
 
-theme: minima
+# Better use the latest version to supports skins and other things
+# theme: minima
+remote_theme: jekyll/minima
 
 # Theme-specific settings
 
