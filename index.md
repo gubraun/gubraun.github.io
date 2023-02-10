@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Home
+title: Hi!
 ---
 Welcome to my awesome website.
