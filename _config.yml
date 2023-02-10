@@ -15,10 +15,14 @@ description: >
 # theme: minima
 remote_theme: jekyll/minima
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  
 # Theme-specific settings
 
 minima:
-  skin: auto
+  skin: classic
   social_links:
     - { platform: github,   user_url: "https://github.com/gubraun" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/gubraun" }
